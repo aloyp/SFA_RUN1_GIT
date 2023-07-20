@@ -1,4 +1,4 @@
-ame: Simple Start Up 
+name: Simple Start Up 
 on:
   push:
     branches: [main]
